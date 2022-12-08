@@ -25,6 +25,6 @@ Be sure to check the box that says "initalize this repository with Add a README 
   When collaborating with others, for a branch to be merged with another person's branch a **pull request** must be made. 
   This is seen circled in **orange** in the image above. 
   This is a request to incorporate your changes into their branch. 
-  Click tge “pull request” tab and select the button that says “new pull request.” 
+  Click the “pull request” tab and select the button that says “new pull request.” 
   Next, in the “example comparisons” box, find the branch you made and review your changes then click the “create pull request” button. 
   Title your pull request and briefly describe the changes you made, and finalize by clicking “create pull request.”
