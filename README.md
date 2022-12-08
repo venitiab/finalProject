@@ -6,4 +6,4 @@ This tutorial is ideal for those who are students studying technology, and peopl
 ---  
 1. [Purpose of GitHub](https://github.com/venitiab/finalProject/blob/ad6a5f639794ec8d79e9aa77807b6d461650ecf7/purpose.md)  
 2. [Creating and Editing a Repository](https://github.com/venitiab/finalProject/blob/19d715ae4254a1052eb37ae4c5931ed95bbcfd4b/repository.md)    
-3. [Markdown](https://github.com/venitiab/finalProject/blob/ffdad66bd74328f2492c24da38cdc02ad2d51ce6/markdown.md)
+3. [Markdown](https://github.com/venitiab/finalProject/blob/c3e16d940e9257b8c9cf0bb92c2dc56d5ea42414/repository.md)
