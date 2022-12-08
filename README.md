@@ -4,6 +4,6 @@ The purpose of this tutorial is to teach new users how to use GitHub.  In this t
 This tutorial is ideal for those who are students studying technology, and people who are in the technology field such as programming instructors and software developers.  
 ### Contents  
 ---  
-* [Purpose of GitHub](https://github.com/venitiab/finalProject/blob/ad6a5f639794ec8d79e9aa77807b6d461650ecf7/purpose.md)  
-* [Creating and Editing a Repository] 
-* [Markdown]
+1. [Purpose of GitHub](https://github.com/venitiab/finalProject/blob/ad6a5f639794ec8d79e9aa77807b6d461650ecf7/purpose.md)  
+2. [Creating and Editing a Repository](https://github.com/venitiab/finalProject/blob/86bc0dad105b224d0905206ae72f593231610dd2/repository.md)  
+3. [Markdown]
