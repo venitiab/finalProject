@@ -14,11 +14,17 @@ Be sure to check the box that says "initalize this repository with Add a README 
   A branch named "main" is there by default, this is the definitive branch for your repository. 
   When a new branch is started, it’ll be a copy of the master branch until you edit it to make new changes. 
   You can work on several different branches in order to make edits before committing them to the main branch.  
+    
   You can **add new files** by clicking "Add File", found circled in **pink** in the image above.
   You can choose which branch you would like your new file added to.  
+    
   To make changes to a branch, go to code view and select the file you wish to edit then select the pencil icon in the right corner. 
   Make your changes then at the bottom you'll find a commit message, where you can explain your edits, then to save your changes
   click "commit changes".  
+    
   When collaborating with others, for a branch to be merged with another person's branch a **pull request** must be made. 
   This is seen circled in **orange** in the image above. 
-  This is a request to incorporate your changes into their branch.
+  This is a request to incorporate your changes into their branch. 
+  Click tge “pull request” tab and select the button that says “new pull request.” 
+  Next, in the “example comparisons” box, find the branch you made and review your changes then click the “create pull request” button. 
+  Title your pull request and briefly describe the changes you made, and finalize by clicking “create pull request.”
